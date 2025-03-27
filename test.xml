@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employee[
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>
+<!ELEMENT position (#PCDATA)>
+]>
+
+<employee>
+<name>Priyanshu</name>
+<salary>50000</salary>
+<position>Software Engineer</position>
+<name>SUJAL</name>
+<salary>80000</salary>
+<position>Software Engineer</position>
+<name>Tanmay</name>
+<salary>60000</salary>
+<position>Software Engineer</position>
+</employee>
